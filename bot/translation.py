@@ -28,7 +28,7 @@ class Translation(object):
 <b>Add me to your Group And Channel And Connect Them And See My Magic.
 
 For More Details Click Help Button Below.
-Please Subscribe <a href='https://t.me/c/1481808444/140'>❤️ @tgbotsProject</a>
+Please Subscribe <a href='https://t.me/fondness_mov'>❤️ @tgbotsProject</a>
 </b>"""    
     
     HELP_TEXT = """
@@ -62,7 +62,7 @@ Please Subscribe <a href='https://t.me/c/1481808444/140'>❤️ @tgbotsProject</
 <b>▷ Creator</b>: <b><a href="https://t.me/c/1417456571/587">Zaute Km</a></b>
 <b>▷ Language</b>: <code>Python3</code>
 <b>▷ Library</b>: <a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a>
-<b>▷ Source Code</b>: <a href="https://github.com/tgbotsProject/Auto-Filter-Bot">Click me</a>
+<b>▷ Source Code</b>: <a href="https://github.com/KingofFondness1/auto-filter-bot">Click me</a>
 
-<b>Please Subscribe</b> <a href='https://t.me/c/1481808444/140'>❤️ @tgbotsProject</a>
+<b>Please Subscribe</b> <a href='https://t.me/fondness_mov'>❤️ @tgbotsProject</a>
 """
