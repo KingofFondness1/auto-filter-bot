@@ -53,7 +53,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👮 Developer 👮', url="https://t.me/c/1417456571/587"
+                                    '👮 Developer 👮', url="https://t.me/fondness_mov"
                                 )
                         ]
                     ]
@@ -65,10 +65,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👮 Developers', url='https://t.me/c/1417456571/587'),
-        InlineKeyboardButton('Source Code 👨‍💻', url ='https://github.com/tgbotsProject/auto-filter-bot')
+        InlineKeyboardButton('👮 Developers', url='https://t.me/fondness_mov'),
+        InlineKeyboardButton('Source Code 👨‍💻', url ='https://github.com/KingofFondness1/auto-filter-bot')
     ],[
-        InlineKeyboardButton('👥 Support 👥', url='https://t.me/izaute/5')
+        InlineKeyboardButton('👥 Support 👥', url='https://t.me/fondness_mov')
     ],[
         InlineKeyboardButton('🆘 Help & Information 🆘', callback_data="help")
     ]]
