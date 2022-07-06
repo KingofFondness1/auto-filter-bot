@@ -7,8 +7,8 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/ZauteKm",
-    "repository": "https://github.com/tgbotsProject/Auto-Filter-Bot",
+    "website": "https://github.com/KingofFondness1",
+    "repository": "https://github.com/KingofFondness1/auto-filter-bot",
     "success_url": "https://telegram.dog/tgbotsProject",
     "env": {
         "APP_ID": {
