@@ -3,12 +3,12 @@
 Do Fork And Star The Repository If You Liked It.
 
 <p align="center">
-  <a href="https://github.com/tgbotsProject/Auto-Filter-Bot/fork">
+  <a href="https://github.com/KingofFondness1/auto-filter-bot/fork">
     <img src="https://img.shields.io/github/forks/tgbotsProject/Auto-Filter-Bot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/tgbotsProject/Auto-Filter-Bot">
-    <img src="https://img.shields.io/github/stars/tgbotsProject/Auto-Filter-Bot?style=social">
+  <a href="https://github.com/KingofFondness1/auto-filter-bot">
+    <img src="https://img.shields.io/github/stars/KingofFondness1/Auto-Filter-Bot?style=social">
   </a>
 </p>
 
@@ -72,7 +72,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/tgbotsProject/Auto-Filter-Bot/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/KingofFondness1/auto-filter-bot/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -93,4 +93,4 @@ python3 -m bot
 ## Credits
 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Thanks to Official Repository [AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2](https://github.com/AlbertEinsteinTG)
+- Thanks to Official Repository [AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2](https://github.com/KingofFondness1)
